@@ -2,7 +2,7 @@
 
 Urban Aura is a full-stack e-commerce web application that provides users with a seamless online shopping experience. The platform allows users to browse products, create accounts, manage carts, place orders, and securely authenticate using JWT-based authentication.
 
----
+---   
 
 ##  Features
 
