@@ -1,4 +1,3 @@
-<img width="1600" height="900" alt="urban-aura" src="https://github.com/user-attachments/assets/89358c39-63df-4477-8b9c-7cb66f3a8f0b" />
 # Urban Aura
 
 Urban Aura is a full-stack e-commerce web application that provides users with a seamless online shopping experience. The platform allows users to browse products, create accounts, manage carts, place orders, and securely authenticate using JWT-based authentication.
